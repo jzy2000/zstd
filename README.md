@@ -11,7 +11,7 @@ The current headers and C files are from *v1.5.6* (Commit
 
 ## Usage
 
-There are two main APIs:
+There are 2 main APIs:
 
 * simple Compress/Decompress
 * streaming API (io.Reader/io.Writer)
